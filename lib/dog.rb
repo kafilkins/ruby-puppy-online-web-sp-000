@@ -19,7 +19,7 @@ def self.clear_all
 end
 
 def self.print_all
-  @@all "#{dog.name}"
+  print @@all "#{dog.name}"
 end
 
 end
