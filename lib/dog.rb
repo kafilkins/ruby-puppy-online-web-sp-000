@@ -16,5 +16,6 @@ class Dog
     print_all do |name|
       print "#{name}"
     end
+    end
 
 end
