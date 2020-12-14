@@ -21,5 +21,13 @@ def self.print_all
   end
 end
 
+def save 
+  @@all << self
+end
+
+def name
+  @name
+end
+
 
 end
