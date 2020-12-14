@@ -18,8 +18,6 @@ def self.clear_all
   @@all.clear
 end
 
-def self.print_all
-  print "#{dog.name.each}"
-end
+
 
 end
