@@ -19,7 +19,7 @@ def self.clear_all
 end
 
 def self.print_all
-  print "#{dog.name}"
+  print "#{dog.name.each}"
 end
 
 end
