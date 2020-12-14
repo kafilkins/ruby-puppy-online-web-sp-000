@@ -14,10 +14,7 @@ class Dog
     end
   end
 
-  def print_all
-    print_all do
-      print "#{name}"
-    end
-    end
-
+def self.clear.all
+  @@all.clear
+end
 end
