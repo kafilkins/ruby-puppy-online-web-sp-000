@@ -13,5 +13,7 @@ class Dog
   end
 
 def print_all
+  print_all do |name|
+    
 
 end
